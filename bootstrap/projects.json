@@ -3,17 +3,9 @@
         "description": "A Frontend project using React",
         "repo": "https://github.com/necrobits/react-boilerplate",
         "variants": {
-            "axios-router6": {
-                "description": "with Axios and Router v6",
-                "branch": "axios-router-v6"
-            },
-            "axios-router5": {
-                "description":"with Axios and Router v5",
-                "branch": "axios-router-v5"
-            },
-            "gobits-router6": {
-                "description":"with Gobits and Router v6",
-                "branch": "gobits-router6"
+            "gobits-semi": {
+                "description": "with Gobits and Semi UI",
+                "branch": "main"
             }
         }
     }
